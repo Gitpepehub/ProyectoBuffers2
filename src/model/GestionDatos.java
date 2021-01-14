@@ -6,18 +6,18 @@ public class GestionDatos {
 
 	}
 
-	//TODO: Implementa una funci髇 para abrir ficheros
+	//TODO: Implementa una funci贸n para abrir ficheros
 	
-	//TODO: Implementa una funci髇 para cerrar ficheros
+	//TODO: Implementa una funci贸n para cerrar ficheros
 	
 	public boolean compararContenido (String fichero1, String fichero2){
-		//TODO: Implementa la funci髇
+		//TODO: Implementa la funci贸n
 		return true;
 	}
 	
 	public int buscarPalabra (String fichero1, String palabra, boolean primera_aparicion){
-		//TODO: Implementa la funci髇
+		//TODO: Implementa la funci贸n
 		return 1;
 	}	
-
+	<h1> hola </h1>
 }
